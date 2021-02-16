@@ -1,0 +1,14 @@
+.wrapper-navigation
+{
+  background-color:white;
+  padding:25px 25px;
+  color:#24B677;
+  font-size: 50px;
+  margin:auto;
+  justify-content: center;
+}
+
+.center
+{
+  text-align: center;
+}
